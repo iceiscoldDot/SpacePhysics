@@ -13,8 +13,10 @@
  * **Result:** The new coordinate is $\mathbf{6_{\gamma'_6}}$
 
 ### **C. Ordered Mapping ($\mathbb{N}\gamma'$)**
+
 *Sort the unique values and their specific indices from smallest to largest.*
- * **Array:** [ $\mathbf{3_{\gamma'_3}}$, $\mathbf{4_{\gamma'_5}}$, $\mathbf{6_{\gamma'_6}}$, $\mathbf{8_{\gamma'_1}}$ ]
+
+* **Array:** $[\mathbf{3_{\gamma'_3}}, \mathbf{4_{\gamma'_5}}, \mathbf{6_{\gamma'_6}}, \mathbf{8_{\gamma'_1}}]$
 
 ### **D. The Fusion Calculation (Index + Number)**
 *Add each base number to its index to reveal where the patterns cross.*
